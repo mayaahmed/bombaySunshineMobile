@@ -22,11 +22,7 @@ function address(){
 
 var descriptString = "Bombay Sunshine is  a candid picture of the  life of a girl called  Tara  growing  up  in  middle class  Mumbai  in  the eighties. The book takes you through a journey of the coming of age  of Tara while  capturing the culture of  Mumbai from that time period. The antics of Tara and her friends provide plenty of laughter and some serious thought.";
 
-
-var addString= " <br/> <br/> &copy; Punjiri Web and Mobile Technologies, 2016.  <br/> Mangalore, Karnataka, India  <br/>  Email: maya.ahmed@gmail.com <br/>";
-
-var newString = descriptString + addString;
-contactDiv.innerHTML= newString;
+contactDiv.innerHTML= descriptString;
 }
 
 address();

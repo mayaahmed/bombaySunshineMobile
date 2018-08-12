@@ -6,7 +6,7 @@ img {
 }
 
 .coverPagePicDiv{
-
+text-align: center;
     margin: 50px;
    //  width: 80%;
     //   height: 80%
@@ -83,3 +83,21 @@ img {
 #submitButtonCover:hover{
     font-size: 27px;
 }
+
+#the_footer{
+margin-top: 20px;
+    text-align: center;
+    font-size: 12px;
+    padding: 10px;
+    border-top: 2px solid black;
+   // color: #CCE5FF;
+    
+    opacity: 0.8;
+}
+
+
+#the_footer:hover{
+    font-size: 14px;
+ opacity: 1;
+}
+
